@@ -1,0 +1,29 @@
+.container {
+    height: 500px;
+    width: 900px;
+    border: 2px solid black;
+}
+.text {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 25px;
+}
+.box {
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    margin: 30px;
+ }
+ .box h3 , p {
+    margin: 15px;
+    text-align: center;
+ }
+ .box1 {
+    background-color: rgba(154, 154, 47, 0.7);
+ }
+ .box2 {
+    background-color: rgba(230, 62, 227, 0.689);
+ }
+ .box3 {
+    background-color: rgba(150, 217, 227, 0.723);
+ }

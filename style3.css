@@ -1,0 +1,25 @@
+.con2{
+    
+    height: 500px;
+    width:600px ;
+    background-color: pink;
+    border: 2px sollid black;
+
+}
+
+.con2 h1{
+    font-size: 35px;
+    font-weight: 600px;
+}
+.img{
+
+    background-image: url("baby-panda-sleeping-on-tree-600w-2549360951\ -\ Copy.webp");
+    height: 200px;
+    width: 200px;
+    float: left;
+   
+ background-size: cover;
+}
+p{
+    float: left;
+}
